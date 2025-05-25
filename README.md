@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dipak Patil Kalaskar</h1>
+<h1 align="center">Hi 👋, I'm Dipak Kalaskar</h1>
 <h3 align="center">A Passionate Java Backend Developer from India</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/dipakkalaskar" target="_blank">LinkedIn</a> •
   <a href="https://github.com/dipakkalaskar" target="_blank">GitHub</a> •
-  <a href="https://dipakkalaskar.dev" target="_blank">Portfolio</a> •
+  <a href="https://dipakkalaskar.github.io/Port/" target="_blank">Portfolio</a> •
   <a href="https://leetcode.com/dipakkalaskar" target="_blank">LeetCode</a>
 </p>
 
